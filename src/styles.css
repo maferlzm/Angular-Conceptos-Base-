@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+header{
+    background: #E74C3C;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+header > h1{
+    color: #FDEBD0;
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    width: 100%;
+    height: 100vh;
+    background: #BB8FCE;
+    color: #FDEBD0;
+    display: flex;
+    align-items: center;
+}
+
+footer > p{
+    width: 100%;
+    text-align: center;
+}
+
+.body{
+    width: 100%;
+    height: 92vh;
+    background: #E6B0AA;
+}
+
+section > p{
+    text-align: justify;
+}
+
+.publicidad{
+    text-align: center;
+
+}
+
+.publicidad > img{
+    width: 100%;
+}
